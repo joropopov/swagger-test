@@ -3,7 +3,7 @@
     "info" : {
       "description" : "SimpleTestApi Description",
       "version" : "1.0",
-      "title" : "SimpleTestApi"
+      "title" : "SimpleTestApi - updated"
     },
     "host" : "virtserver.swaggerhub.com",
     "basePath" : "/gpopov.onespan/SimpleTestApi/1.0",

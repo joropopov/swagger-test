@@ -3,10 +3,13 @@
   "info" : {
     "version" : "1.0",
     "title" : "SimpleTestApi",
-    "description" : "SimpleTestApi Description new updated description"
+    "description" : "SimpleTestApi Description new updated description",
+    "contact" : {
+      "email" : "gpopov2@gmail.com"
+    }
   },
   "paths" : { },
   "host" : "example.com",
-  "basePath" : "/v1.0/",
+  "basePath" : "/v1.1/",
   "schemes" : [ "https" ]
 }

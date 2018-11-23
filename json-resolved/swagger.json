@@ -2,11 +2,14 @@
   "swagger" : "2.0",
   "info" : {
     "description" : "SimpleTestApi Description new updated description",
-    "version" : "1.0",
-    "title" : "SimpleTestApi"
+    "version" : "1.1",
+    "title" : "SimpleTestApi",
+    "contact" : {
+      "email" : "gpopov2@gmail.com"
+    }
   },
   "host" : "example.com",
-  "basePath" : "/v1.0/",
+  "basePath" : "/v1.1/",
   "schemes" : [ "https" ],
   "paths" : { },
   "definitions" : { }

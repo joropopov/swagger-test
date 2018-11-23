@@ -5,8 +5,8 @@
     "version" : "1.0",
     "title" : "SimpleTestApi"
   },
-  "host" : "virtserver.swaggerhub.com",
-  "basePath" : "/gpopov.onespan/SimpleTestApi/1.0",
+  "host" : "example.com",
+  "basePath" : "/v1.0/",
   "schemes" : [ "https" ],
   "paths" : { },
   "definitions" : { }

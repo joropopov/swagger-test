@@ -8,8 +8,8 @@
       "email" : "gpopov2@gmail.com"
     }
   },
-  "host" : "example.com",
-  "basePath" : "/v1.1/",
+  "host" : "sandbox.esignlive.com",
+  "basePath" : "/",
   "schemes" : [ "https" ],
   "paths" : {
     "/auth" : {

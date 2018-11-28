@@ -35,8 +35,7 @@
               "type" : "object",
               "properties" : {
                 "sessionToken" : {
-                  "type" : "string",
-                  "example" : "2bc22770450ecfda1b2d26b52b17eae2f188e25416829b28"
+                  "type" : "string"
                 }
               }
             }
@@ -52,24 +51,21 @@
     "inline_response_200" : {
       "properties" : {
         "sessionToken" : {
-          "type" : "string",
-          "example" : "2bc22770450ecfda1b2d26b52b17eae2f188e25416829b28"
+          "type" : "string"
         }
       },
       "example" : {
-        "sessionToken" : "2bc22770450ecfda1b2d26b52b17eae2f188e25416829b28"
+        "sessionToken" : "sessionToken"
       }
     },
     "body" : {
       "type" : "object",
       "properties" : {
         "email" : {
-          "type" : "string",
-          "example" : "your@email.com"
+          "type" : "string"
         },
         "password" : {
-          "type" : "string",
-          "example" : "yourpassword"
+          "type" : "string"
         }
       }
     }
